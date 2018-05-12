@@ -1,0 +1,28 @@
+_repo: Versos-em-honra-do-grande-poeta-Manoel-Maria-Barbosa-du-Bocage_22634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sadão, Elisino
+    alias: Sadao, Elisino
+    gutenberg_agent_id: '25462'
+    url: http://www.gutenberg.org/2009/agents/25462
+description: This ebook uses a spelling from the beginning of the 20th century
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22634'
+language: pt
+production_note: Produced by Vasco Salgado
+publication_note: '1905'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Bocage, Manuel Maria Barbosa du, 1765-1805 -- Poetry'
+title: Versos em honra do grande poeta Manoel Maria Barbosa du Bocage
+url: http://www.gutenberg.org/ebooks/22634
