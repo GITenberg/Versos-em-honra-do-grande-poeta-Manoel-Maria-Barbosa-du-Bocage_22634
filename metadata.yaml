@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25462'
     url: http://www.gutenberg.org/2009/agents/25462
 description: This ebook uses a spelling from the beginning of the 20th century
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22634#Versos-em-honra-do-grande-poeta-Manoel-Maria-Barbosa-du-Bocage
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
